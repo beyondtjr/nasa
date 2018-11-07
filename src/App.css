@@ -1,0 +1,20 @@
+.HeaderPicture {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 200px;
+}
+
+.Main {
+  background-image: url(https://amp.businessinsider.com/images/55e47514dd0895f7118b4646-750-491.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: round;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-around;
+}
